@@ -1,6 +1,5 @@
-# -AI-ML-track-of-Shaastra-Techathon-2024
-🚦 This project is a cutting-edge solution developed for Shaastra Techathon 2024, hosted by IIT Madras. It leverages Artificial Intelligence and Computer Vision techniques to automate traffic violation detection using CCTV feeds in real-time.
 # 🚦 AI/ML Challenge - Shaastra Techathon 2024
+🚦 This project is a cutting-edge solution developed for Shaastra Techathon 2024, hosted by IIT Madras. It leverages Artificial Intelligence and Computer Vision techniques to automate traffic violation detection using CCTV feeds in real-time.
 
 ![Shaastra Techathon](https://img.shields.io/badge/Shaastra%20Techathon-2024-blue?style=flat-square)
 ![AI/ML](https://img.shields.io/badge/Domain-AI%2FML-green?style=flat-square)
@@ -32,6 +31,21 @@ During the challenge, I:
 Even though this was not a final product submission, I gained valuable experience working with computer vision tools and frameworks. I also collaborated with mentors and peers to understand practical use cases of AI.
 
 ---
+🏆 About the Hackathon
+Event: Shaastra Techathon 2024
+
+Track: AI/ML Challenge
+
+Organized by: IIT Madras
+
+Duration: 36 hours
+
+Mode: Online/Hybrid
+
+🙌 Acknowledgements
+Thanks to the Shaastra Techathon 2024 team for hosting an engaging challenge.
+
+Grateful to mentors and volunteers for insights and support.
 
 ## 🧪 Project Experiments (Prototype Code)
 
@@ -64,21 +78,3 @@ while cap.isOpened():
 cap.release()
 cv2.destroyAllWindows()
 
-🏆 About the Hackathon
-Event: Shaastra Techathon 2024
-
-Track: AI/ML Challenge
-
-Organized by: IIT Madras
-
-Duration: 36 hours
-
-Mode: Online/Hybrid
-
-📁 Certificate Preview
-📄 Click here to view my certificate
-
-🙌 Acknowledgements
-Thanks to the Shaastra Techathon 2024 team for hosting an engaging challenge.
-
-Grateful to mentors and volunteers for insights and support.
