@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Shaastra Techathon 2024-1.png" alt="Shaastra Techathon Certificate" width="600"/>
+</p>
 
 # 🚦 AI/ML Challenge - Shaastra Techathon 2024
 🚦 This project is a cutting-edge solution developed for Shaastra Techathon 2024, hosted by IIT Madras. It leverages Artificial Intelligence and Computer Vision techniques to automate traffic violation detection using CCTV feeds in real-time.
